@@ -866,3 +866,14 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #5cbe7f;
 }
+.busqueda{
+    padding-top: 8%;
+    padding-bottom: 5%
+}
+.titulos{
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive ;
+    color: #5CBE7F;
+}
+.index-p{
+    padding-top: 5px;
+}
