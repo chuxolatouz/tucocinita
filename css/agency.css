@@ -42,7 +42,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #fec503;
+    color: #408558;
 }
 
 h1,
@@ -82,9 +82,9 @@ h6 {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    border-color: #f6bf01;
+    border-color: #408558;
     color: #fff;
-    background-color: #fec503;
+    background-color: #408558;
 }
 
 .btn-primary:active,
@@ -129,15 +129,21 @@ fieldset[disabled] .btn-primary.active {
     background-color: #5CBE7F;
 }
 
-.btn-xl:hover,
+
 .btn-xl:focus,
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
     border-color: #5CBE7F;
     color: #fff;
-    background-color: ##499865
-;
+    background-color: ##499865;
+
+}
+
+.btn-xl:hover{
+    border-color: #408558;
+    color: #fff;
+    background-color: #408558;   
 }
 
 .btn-xl:active,
@@ -368,7 +374,7 @@ section h3.section-subheading {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(254,209,54,.9);
+    background: rgba(92, 190, 127,.9);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
