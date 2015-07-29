@@ -883,3 +883,12 @@ body {
 .index-p{
     padding-top: 5px;
 }
+.recetilla{
+    border: 5px solid #5cbe7f;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#recets a{
+    color: #333
+}
